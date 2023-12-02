@@ -10,6 +10,8 @@ packages = [{include = "learning_sam_vit"}]
 python = "^3.10"
 transformers = "^4.35.2"
 pillow = "^10.1.0"
+torch = "^2.1.1"
+torchvision = "^0.16.1"
 
 
 [build-system]
